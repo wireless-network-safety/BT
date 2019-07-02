@@ -1,0 +1,7 @@
+C4:9A:02:E2:06:AB                      // Alexey
+48:27:EA:AD:D5:F7                      // Shir
+
+
+# OBEX
+sudo apt-get install libopenobex2-dev
+install lightblue
